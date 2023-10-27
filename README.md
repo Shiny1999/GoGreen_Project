@@ -1,3 +1,12 @@
+# GoGreen2 replication package
+## Contents
+- **data**: Contains all original experiment data.
+
+- **hypothesis testing**: Contains all R scripts.
+
+- **linux-powerjoular-samples**: Contains all NLP models scripts and a new RunnerConfig.py for execution.
+
+
 # Experiment-Runner
 
 Experiment Runner is a generic framework to automatically execute measurement-based experiments on any platform. The experiments are user-defined, can be completely customized, and expressed in python code!
