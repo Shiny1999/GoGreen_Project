@@ -4,7 +4,9 @@
 
 - **hypothesis testing**: Contains all R scripts.
 
-- **linux-powerjoular-samples**: Contains all NLP models scripts and a new RunnerConfig.py for execution.
+- **linux-powerjoular-profiling**: Contains all NLP models scripts and a new RunnerConfig.py for execution.
+
+To replicate the experiment, see README in linux-powerjoular-profiling folder, don't forget to change the model script you want to execute in RunnerConfig.py.
 
 
 # Experiment-Runner
