@@ -1,4 +1,4 @@
-# GoGreen2 replication package
+# This repository contains the replication package for the paper 'The impact of Knowledge Distillation on performance and energy consumption for NLP models'
 ## Contents
 - **data**: Contains all original experiment data.
 
