@@ -1,4 +1,4 @@
-# Thesis / Paper Title
+# The impact of Knowledge Distillation on performance and energy consumption for NLP models
 This repository is a companion page for the following thesis / publication:
 > Author Names. Publication year. Thesis / Paper title. Publication venue / proceedings.
 
